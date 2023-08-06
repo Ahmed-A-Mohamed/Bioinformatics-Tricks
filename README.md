@@ -6,9 +6,7 @@ This is the summary of my journey in Bioinformatics with all the resources I fac
 
 |                       Name                   |                       discription                   |                           link                           |
 |----------------------------------------------|-----------------------------------------------------|----------------------------------------------------------|
-|               Stestical model                |bjbjk|https://en.wikipedia.org/wiki/Statistical_model           |
-| Statistics basics level 1                    |                                                                 |
-| Statistics basics level 2                    |                                                                | https://www.youtube.com/playlist?list=PL-p9JpwN5NNGnXoGDMeF_M6LFUHsjGi0w|
+|               Introduction Bioinformatics                |bjbjk|https://en.wikipedia.org/wiki/Statistical_model           |
+|          Statistics concepts with R code        |teaching the stat with examples in details                   |https://www.youtube.com/@marinstatlectures/playlists?view=50&sort=dd&shelf_id=15
+|        Statistics & Machine learning (biology examples) |teaching stat and ML with biology examples |https://youtube.com/playlist?list=PLblh5JKOoLUJUNlfvCNhJMNjNNpt5ljcR
 
-|1 Parametric model                            | if  {displaystyle Theta } has a finite dimension| https://en.wikipedia.org/wiki/Parametric_model|
-|1.1 Normal Distribution                       |                                                     |https://en.wikipedia.org/wiki/Normal_distribution         |
