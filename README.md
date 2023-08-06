@@ -1,5 +1,5 @@
 # Bioinformatics-Tricks
-This is the summary of my journy in Bioinformatics with all resources I faced
+This is the summary of my journey in Bioinformatics with all the resources I faced
 
 
 # 4- Machine Learning and Statistics
